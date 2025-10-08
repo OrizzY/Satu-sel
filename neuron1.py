@@ -7,3 +7,6 @@ class Neuron:
             self.weight + self.bias > 0
         else:
             0
+n = Neuron()
+hasil = n.feedForward(3)
+print(hasil)
