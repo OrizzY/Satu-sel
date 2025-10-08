@@ -1,0 +1,1 @@
+print("Satu neuron nyala")
